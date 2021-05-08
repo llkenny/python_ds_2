@@ -1,0 +1,1013 @@
+-0.01: ['Years in current job', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.01
+0.01: ['Tax Liens', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.01
+-0.02: ['Number of Open Accounts', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.02
+-0.05: ['Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.11
+-0.02: ['Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+0.00: ['Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.01
+0.01: ['Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+-0.02: ['Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.12
+0.00: ['Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.02: ['Years in current job', 'Tax Liens', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.02
+-0.02: ('Years in current job', 'Tax Liens'), tst: -0.02, tr: 0.01
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.08
+-0.03: ('Years in current job', 'Number of Open Accounts'), tst: -0.03, tr: 0.04
+-0.05: ['Years in current job', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.16
+-0.05: ('Years in current job', 'Years of Credit History'), tst: -0.05, tr: 0.13
+-0.02: ['Years in current job', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.15
+-0.02: ('Years in current job', 'Maximum Open Credit'), tst: -0.02, tr: 0.14
+-0.02: ['Years in current job', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.03
+-0.02: ('Years in current job', 'Number of Credit Problems'), tst: -0.02, tr: 0.01
+0.00: ['Years in current job', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Current Loan Amount'), tst: -0.00, tr: 0.09
+-0.02: ['Years in current job', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+-0.03: ('Years in current job', 'Current Credit Balance'), tst: -0.03, tr: 0.13
+-0.01: ['Years in current job', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.03
+-0.01: ('Tax Liens', 'Number of Open Accounts'), tst: -0.01, tr: 0.02
+-0.05: ['Tax Liens', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.10
+-0.04: ('Tax Liens', 'Years of Credit History'), tst: -0.04, tr: 0.06
+-0.02: ['Tax Liens', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.13
+-0.02: ('Tax Liens', 'Maximum Open Credit'), tst: -0.02, tr: 0.12
+0.00: ['Tax Liens', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.01
+-0.00: ('Tax Liens', 'Number of Credit Problems'), tst: -0.00, tr: 0.00
+0.01: ['Tax Liens', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+0.00: ('Tax Liens', 'Current Loan Amount'), tst: 0.00, tr: 0.07
+-0.01: ['Tax Liens', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.03: ('Tax Liens', 'Current Credit Balance'), tst: -0.03, tr: 0.11
+0.01: ['Tax Liens', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.01: ('Tax Liens', 'Monthly Debt'), tst: 0.01, tr: 0.09
+-0.03: ['Number of Open Accounts', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.15
+-0.04: ('Number of Open Accounts', 'Years of Credit History'), tst: -0.04, tr: 0.13
+-0.02: ['Number of Open Accounts', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.15
+-0.02: ('Number of Open Accounts', 'Maximum Open Credit'), tst: -0.02, tr: 0.14
+-0.02: ['Number of Open Accounts', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.04
+-0.01: ('Number of Open Accounts', 'Number of Credit Problems'), tst: -0.01, tr: 0.02
+0.00: ['Number of Open Accounts', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Number of Open Accounts', 'Current Loan Amount'), tst: -0.00, tr: 0.08
+-0.01: ['Number of Open Accounts', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Number of Open Accounts', 'Current Credit Balance'), tst: -0.02, tr: 0.13
+-0.00: ['Number of Open Accounts', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.03: ['Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.18
+-0.03: ('Years of Credit History', 'Maximum Open Credit'), tst: -0.03, tr: 0.17
+-0.05: ['Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.11
+-0.05: ('Years of Credit History', 'Number of Credit Problems'), tst: -0.05, tr: 0.08
+-0.01: ['Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.11
+-0.03: ['Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Years of Credit History', 'Current Credit Balance'), tst: -0.03, tr: 0.16
+-0.03: ['Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.02: ['Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+-0.02: ('Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.13
+0.01: ['Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.01: ('Maximum Open Credit', 'Current Loan Amount'), tst: 0.01, tr: 0.10
+-0.01: ['Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.02: ('Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.01: ['Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Maximum Open Credit', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.08
+0.00: ('Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.08
+-0.01: ['Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.12
+0.00: ['Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Number of Credit Problems', 'Monthly Debt'), tst: -0.00, tr: 0.10
+0.00: ['Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.01: ['Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+-0.00: ('Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.08
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Open Accounts'), tst: -0.03, tr: 0.05
+-0.05: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.15
+-0.05: ('Years in current job', 'Tax Liens', 'Years of Credit History'), tst: -0.05, tr: 0.13
+-0.02: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit'), tst: -0.02, tr: 0.13
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.03
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Credit Problems'), tst: -0.03, tr: 0.02
+0.00: ['Years in current job', 'Tax Liens', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Tax Liens', 'Current Loan Amount'), tst: -0.00, tr: 0.08
+-0.01: ['Years in current job', 'Tax Liens', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.03: ('Years in current job', 'Tax Liens', 'Current Credit Balance'), tst: -0.03, tr: 0.12
+-0.01: ['Years in current job', 'Tax Liens', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.11
+-0.01: ('Years in current job', 'Tax Liens', 'Monthly Debt'), tst: -0.01, tr: 0.10
+-0.03: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.18
+-0.04: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History'), tst: -0.04, tr: 0.16
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit'), tst: -0.02, tr: 0.15
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.09
+-0.03: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems'), tst: -0.03, tr: 0.06
+0.00: ['Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Current Loan Amount'), tst: -0.00, tr: 0.09
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.15
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Current Credit Balance'), tst: -0.02, tr: 0.14
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Monthly Debt'), tst: -0.02, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.17
+-0.05: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.16
+-0.05: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.05, tr: 0.14
+-0.01: ['Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.03: ('Years in current job', 'Years of Credit History', 'Current Credit Balance'), tst: -0.03, tr: 0.17
+-0.03: ['Years in current job', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Years in current job', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.02: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.15
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.14
+0.01: ['Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Years in current job', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.02: ['Years in current job', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.02: ['Years in current job', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.13
+0.00: ['Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+0.00: ('Years in current job', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.09
+-0.01: ['Years in current job', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.02: ('Years in current job', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.13
+-0.01: ['Years in current job', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.11
+0.00: ['Years in current job', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.00: ['Years in current job', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Years in current job', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.12
+-0.03: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.14
+-0.04: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History'), tst: -0.04, tr: 0.12
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit'), tst: -0.01, tr: 0.14
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.04
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems'), tst: -0.01, tr: 0.03
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Current Loan Amount'), tst: -0.00, tr: 0.08
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Current Credit Balance'), tst: -0.02, tr: 0.12
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.03: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.03, tr: 0.16
+-0.05: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.05, tr: 0.11
+-0.04: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.04, tr: 0.08
+-0.01: ['Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.11
+-0.01: ('Tax Liens', 'Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.11
+-0.03: ['Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Tax Liens', 'Years of Credit History', 'Current Credit Balance'), tst: -0.03, tr: 0.16
+-0.03: ['Tax Liens', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.15
+-0.03: ('Tax Liens', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.02: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.13
+-0.02: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.13
+0.01: ['Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.01: ('Tax Liens', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.01, tr: 0.10
+-0.01: ['Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.01, tr: 0.15
+-0.01: ['Tax Liens', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.01: ['Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+0.00: ('Tax Liens', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.08
+-0.02: ['Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.12
+-0.03: ('Tax Liens', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.03, tr: 0.12
+0.01: ['Tax Liens', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.01: ('Tax Liens', 'Number of Credit Problems', 'Monthly Debt'), tst: 0.01, tr: 0.10
+0.00: ['Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.01: ['Tax Liens', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+0.00: ('Tax Liens', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.08
+-0.01: ['Tax Liens', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.17
+-0.03: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.15
+-0.03: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.03, tr: 0.13
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.03: ('Number of Open Accounts', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.01, tr: 0.14
+0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.01, tr: 0.11
+-0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.01, tr: 0.14
+0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.09
+-0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.01: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+-0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.01: ('Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.10
+0.00: ['Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.03: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.03, tr: 0.16
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.01, tr: 0.11
+-0.02: ['Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.03: ('Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.03, tr: 0.16
+-0.03: ['Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.00: ['Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+-0.01: ['Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.01: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.10
+-0.01: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.16
+-0.01: ['Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.12
+-0.00: ['Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+0.01: ['Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.00: ('Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.10
+0.00: ['Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.08
+0.00: ('Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.08
+-0.01: ['Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.01: ('Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.09
+-0.03: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.04: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History'), tst: -0.04, tr: 0.15
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit'), tst: -0.02, tr: 0.15
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.09
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems'), tst: -0.03, tr: 0.06
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount'), tst: -0.01, tr: 0.09
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Credit Balance'), tst: -0.02, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.17
+-0.04: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.04, tr: 0.15
+-0.04: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.04, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.03: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.02: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.14
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.13
+0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.13
+0.01: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.09
+0.00: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.08
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.11
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.10
+0.00: ['Years in current job', 'Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Tax Liens', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.00: ['Years in current job', 'Tax Liens', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Tax Liens', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Years in current job', 'Tax Liens', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.02: ('Years in current job', 'Tax Liens', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.12
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.18
+-0.03: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.04: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.04, tr: 0.16
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.03: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.01, tr: 0.15
+0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.12
+0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.14
+0.00: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.14
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.11
+0.00: ['Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.13
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.13
+-0.03: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.18
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.19
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.03: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.01: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.00: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.03: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.00: ['Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+0.00: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.01: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.01: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.13
+0.00: ['Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.12
+-0.00: ['Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.02: ('Years in current job', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.15
+0.01: ['Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.11
+0.00: ['Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Years in current job', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Years in current job', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.13
+-0.00: ['Years in current job', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.01: ('Years in current job', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.10
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.16
+-0.03: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.15
+-0.03: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.03, tr: 0.12
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount'), tst: -0.01, tr: 0.11
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt'), tst: -0.02, tr: 0.15
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.01, tr: 0.14
+0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.01, tr: 0.11
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.01, tr: 0.16
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.08
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.03: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.03, tr: 0.16
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.11
+-0.01: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.01, tr: 0.11
+-0.02: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.03: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.03, tr: 0.16
+-0.03: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.15
+-0.03: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.00: ['Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.12
+-0.01: ['Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.15
+0.01: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.01: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.01, tr: 0.10
+-0.01: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.16
+-0.01: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.01: ['Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.14
+0.01: ['Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.00: ('Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.10
+0.01: ['Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.08
+0.00: ('Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.08
+-0.01: ['Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.03: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.18
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.17
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.19
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.03: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.17
+-0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.17
+-0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.14
+0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.15
+-0.01: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+0.00: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.08
+-0.01: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.01: ['Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+-0.01: ['Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+-0.00: ['Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit'), tst: -0.02, tr: 0.18
+-0.03: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.17
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems'), tst: -0.03, tr: 0.15
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.01, tr: 0.15
+0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.01, tr: 0.17
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.14
+0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.10
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.09
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.14
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.11
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.11
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.03: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.03, tr: 0.16
+-0.03: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.15
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.02: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.13
+0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+0.00: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.10
+0.00: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.08
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.12
+-0.00: ['Years in current job', 'Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.01: ('Years in current job', 'Tax Liens', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.10
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.18
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.19
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.03: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.12
+0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.18
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.17
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.14
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.16
+0.00: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.11
+0.00: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.13
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.10
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.19
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+-0.00: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+-0.00: ['Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Years in current job', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.00: ['Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.03: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.03, tr: 0.16
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.18
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.01, tr: 0.12
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.16
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.15
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.17
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.16
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.10
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.15
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.15
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.10
+0.01: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.09
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.08
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.15
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.12
+-0.01: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.15
+-0.00: ['Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+0.00: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: 0.00, tr: 0.10
+-0.00: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.15
+-0.01: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+-0.00: ['Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.19
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.01, tr: 0.13
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.01: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.13
+0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.16
+-0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.15
+0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+0.00: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.01: ['Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.19
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.18
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.17
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.03: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.03, tr: 0.16
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: 0.00, tr: 0.11
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.01, tr: 0.17
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.14
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.01, tr: 0.14
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.11
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.09
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.09
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.13
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.13
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.11
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.01: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+-0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.19
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.19
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.17
+0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.18
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.13
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.16
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.16
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.10
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years in current job', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Years in current job', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.12
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.18
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.16
+-0.02: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.01: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.12
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.15
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.15
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: 0.00, tr: 0.11
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.14
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.02: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.12
+0.00: ['Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.11
+-0.00: ('Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: 0.00, tr: 0.11
+-0.00: ['Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.19
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance'), tst: -0.02, tr: 0.18
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Monthly Debt'), tst: -0.02, tr: 0.16
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.13
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.16
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.01, tr: 0.13
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: 0.00, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.10
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.15
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.15
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.10
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.10
+0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.02: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.02, tr: 0.17
+-0.02: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.02, tr: 0.17
+0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+-0.00: ['Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.11
+-0.00: ('Years in current job', 'Tax Liens', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.18
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.13
+0.00: ['Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+-0.00: ('Years in current job', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.11
+-0.00: ['Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Years in current job', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.01: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: 0.00, tr: 0.11
+-0.00: ['Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.14
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance'), tst: -0.00, tr: 0.14
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.12
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Monthly Debt'), tst: -0.00, tr: 0.12
+-0.01: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.01, tr: 0.17
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.17
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+-0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: -0.00, tr: 0.13
+-0.01: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.01, tr: 0.12
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.12
+0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: 0.00, tr: 0.11
+0.00: ['Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+0.00: ('Years in current job', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: 0.00, tr: 0.13
+0.00: ['Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
+0.00: ['Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt', 'Have Mortgage', 'Home Mortgage', 'Own Home', 'Rent'], tst: 0.00, tr: 0.13
+-0.00: ('Years in current job', 'Tax Liens', 'Number of Open Accounts', 'Years of Credit History', 'Maximum Open Credit', 'Number of Credit Problems', 'Current Loan Amount', 'Current Credit Balance', 'Monthly Debt'), tst: -0.00, tr: 0.13
